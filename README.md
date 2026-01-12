@@ -7,6 +7,7 @@ Brain Blossom is a informative, well presented website that gives the user beggi
 
 ## 🛠️ Features
 - **Responsive & Cross-Browser**: Tested across Chrome, Safari, Firefox, and mobile devices to ensure a universal experience.
+- **Questionaire**: A responsive questionaire that gives different responses based on the users score
 
 
 
