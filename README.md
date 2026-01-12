@@ -6,7 +6,7 @@ A website that displays accessible, beginner-friendly information on mental heal
 Brain Blossom is a informative, well presented website that gives the user begginner-friendly information about mental health issues and offers adive on how to recognise issues and deal with stress. The site uses relaxing colours
 
 ## 🛠️ Features
-- **Responsive & Cross-Browser**: Tested across Chrome, Safari, Firefox, and mobile devices to ensure a universal festive experience.
+- **Responsive & Cross-Browser**: Tested across Chrome, Safari, Firefox, and mobile devices to ensure a universal experience.
 
 
 
