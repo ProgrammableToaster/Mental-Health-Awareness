@@ -5,18 +5,6 @@ A website that displays accessible, beginner-friendly information on mental heal
 ##  The Vision
 Brain Blossom is a informative, well presented website that gives the user begginner-friendly information about mental health issues and offers adive on how to recognise issues and deal with stress. The site uses relaxing colours
 
-## 👤 User Stories
-
-### The Researcher
-**As a** visitor to the site,  
-**I want to** view information that is relevant and well presented,  
-**So that** I can learn about mental health issues efficiently and easily. 
-
-### User with Mental Health Issue
-**As a** user with a mental health issue,  
-**I want to** view specific information about my mental health issue and have access to clearly labeled external resources,  
-**So that** I can diagnose my mental health issue with accuracy and seek help/advice.
-
 ## 🛠️ Features
 - **Responsive & Cross-Browser**: Tested across Chrome, Safari, Firefox, and mobile devices to ensure a universal festive experience.
 
