@@ -17,13 +17,6 @@ Brain Blossom is a informative, well presented website that gives the user beggi
 **I want to** view specific information about my mental health issue and have access to clearly labeled external resources,  
 **So that** I can diagnose my mental health issue with accuracy and seek help/advice.
 
-## 🗺️ The Route
-Follow the magic through four iconic time zones:
-- **London, UK**: Mince Pies & Sherry
-- **Paris, France**: Bûche de Noël
-- **Tokyo, Japan**: Festive Fried Chicken & Cake
-- **New York, USA**: Milk & Cookies
-
 ## 🛠️ Features
 - **Responsive & Cross-Browser**: Tested across Chrome, Safari, Firefox, and mobile devices to ensure a universal festive experience.
 
