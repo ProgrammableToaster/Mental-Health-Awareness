@@ -1,11 +1,11 @@
 :root {
-  --primary-bg: #d8f5d0; 
-  --secondary-color: #ffffff; 
+  --primary-bg: #d8f5d0;
+  --secondary-color: #ffffff;
 }
 
 body {
   background-color: var(--primary-bg);
-  color: #000; 
+  color: #000;
 }
 
 .secondary {
@@ -19,7 +19,7 @@ body {
 
 .custom-card {
   background-color: #ffffff;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); 
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 }
 
 h1,
@@ -50,7 +50,7 @@ body {
 .custom-img {
   max-width: 400px;
   width: 100%;
-  height: auto; 
+  height: auto;
 }
 
 section {
@@ -67,4 +67,19 @@ section {
   background-color: #e8ffe8;
   border-radius: 12px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.equal-section {
+  min-height: 70vh; /* Gives the section presence */
+  display: flex;
+  align-items: center; /* Vertically centers the content */
+}
+.equal-cols {
+  display: flex;
+  align-items: stretch; /* Makes both columns equal height */
+}
+.equal-cols > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centers content inside each column */
 }
