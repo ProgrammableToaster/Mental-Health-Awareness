@@ -1,0 +1,39 @@
+:root {
+  --primary-bg: #d8f5d0;   /* pale green */
+  --secondary-color: #ffffff; /* white */
+}
+
+body {
+  background-color: var(--primary-bg);
+  color: #000; /* keep text readable */
+}
+
+.secondary {
+  background-color: var(--secondary-color);
+  color: #000;
+}
+.navbar, .footer {
+  background-color: var(--secondary-color);
+}
+
+
+.custom-card {
+  background-color: #ffffff; 
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); /*shadow */
+}
+
+h1, h2, h3 {
+     text-align: center;
+     }
+
+h1, h2, h3 { 
+    font-family: 'Nunito', sans-serif, bold; }
+ body {
+ font-family: 'Inter', sans-serif; }
+
+ .navbar-brand img { 
+    max-height: 70px;  height: auto; width: auto; }
+
+body {
+     padding-top: 100px;
+    }
