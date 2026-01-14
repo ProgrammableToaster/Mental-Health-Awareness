@@ -1,11 +1,11 @@
 :root {
-  --primary-bg: #d8f5d0; /* pale green */
-  --secondary-color: #ffffff; /* white */
+  --primary-bg: #d8f5d0; 
+  --secondary-color: #ffffff; 
 }
 
 body {
   background-color: var(--primary-bg);
-  color: #000; /* keep text readable */
+  color: #000; 
 }
 
 .secondary {
@@ -19,7 +19,7 @@ body {
 
 .custom-card {
   background-color: #ffffff;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); /*shadow */
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); 
 }
 
 h1,
@@ -48,9 +48,9 @@ body {
 }
 
 .custom-img {
-  max-width: 400px; /* adjust to your preferred size */
-  width: 100%; /* keeps it responsive */
-  height: auto; /* preserves aspect ratio */
+  max-width: 400px;
+  width: 100%;
+  height: auto; 
 }
 
 section {
@@ -59,12 +59,12 @@ section {
 }
 
 .custom-jumbo {
-  background-color: #ccffcc; /* bright pale green */
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25); /* noticeable dropdown shadow */
+  background-color: #ccffcc;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
 }
 
 .highlighted-section {
-  background-color: #e8ffe8; /* soft pale green */
+  background-color: #e8ffe8;
   border-radius: 12px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
